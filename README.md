@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @friscojosh
 - 👀 I’m interested in "hacking" in all its forms. Currently I'm focused on how to hack the NFL.
-- 🌱 I’m currently learning about the history of cold war spooks, inflence in negotiations, OSINT and the the impacts of play clock in football.
+- 🌱 I’m currently learning about the history of cold war spooks, inflence in negotiations, OSINT and the the impacts of the play clock in football.
 - Web: https://fivethirtyeight.com/contributors/josh-hermsmeyer/ 
 - Twitter: @fricscojosh 
 - Newsletter: airyards.substack.com
